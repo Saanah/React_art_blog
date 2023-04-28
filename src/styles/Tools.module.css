@@ -1,0 +1,40 @@
+.infoBox{
+
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: #fbf4d7;
+    text-align: center;
+    padding: 30px;
+    box-shadow: 3px 8px 3px #c2c2c2;
+
+}
+
+.infoBox ul li {
+
+    display: block;
+    
+}
+
+.infoBox a{
+    color: #99cfff;
+}
+
+.infoBox h1 {
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 5%;
+}
+
+.text{
+
+    width: 50%;
+    text-align: justify;
+    margin-left: 5%;
+
+}
+
+

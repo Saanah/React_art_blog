@@ -1,0 +1,33 @@
+.post{
+
+    display: block;
+    background-color: #fbf4d7;
+    margin: 5% 20% 5% 20%;
+    width: 60ch;
+    height: auto;
+    box-shadow: 3px 8px 3px #f7c8da;
+    align-self: center;
+    font-size: 1.125rem;
+}
+
+
+.image{
+
+    width: auto;
+    height: 600px;
+    margin-top: 1em;
+}
+
+.postdate{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff4b7;
+}
+
+.pin{
+
+    height: 80px;
+    width: 80px;
+}

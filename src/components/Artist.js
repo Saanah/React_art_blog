@@ -11,7 +11,7 @@ function Artist(props) {
                but programming has turned out to be really fun!</p>
                <p>I also like to draw in my free time. Nowadays I mostly draw digitally.
                I'm an night owl and like to work on projects at night.</p>
-               <p>Other things I like to do include gaming, reading, writing and <span style={{color: 'white'}}>watching Dr Pimple Popper</span> training my cat.</p>
+               <p>Other things I like to do include gaming, reading, writing and training my cat.</p>
             </div>
         </div>
     );

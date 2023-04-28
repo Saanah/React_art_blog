@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "image": "'../stress.png"
+    },
+    {
+        "id": 2,
+        "image": "'../kortti.png"
+    },
+    {
+        "id": 3,
+        "image": "../stress.png"
+    }
+] 

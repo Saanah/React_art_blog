@@ -1,2 +1,3 @@
 # React_art_blog
-Simple, very self-indulgent, blog made with React and React Router.
+A simple, very self-indulgent, web blog made with React and React Router.
+An exercise to revise props, functions and CSS-styling.

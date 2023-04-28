@@ -5,7 +5,7 @@ function Tools(props) {
     return (
         <div className={styles.infoBox}>
             <div className={styles.text}>
-            <h1>The tools I use:</h1>
+            <h1>The tools I use</h1>
             <ul>
                 <li>Software: Krita</li>
                 <li>Tablet: Wacom Intuos</li>

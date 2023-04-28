@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/React_art_blog/static/css/main.6da7f999.css",
-    "main.js": "/React_art_blog/static/js/main.4504862f.js",
+    "main.js": "/React_art_blog/static/js/main.c4ef3a98.js",
     "static/js/787.9e0c1f39.chunk.js": "/React_art_blog/static/js/787.9e0c1f39.chunk.js",
     "static/media/paper_texture.jpg": "/React_art_blog/static/media/paper_texture.12434fe181efce952772.jpg",
     "index.html": "/React_art_blog/index.html",
     "main.6da7f999.css.map": "/React_art_blog/static/css/main.6da7f999.css.map",
-    "main.4504862f.js.map": "/React_art_blog/static/js/main.4504862f.js.map",
+    "main.c4ef3a98.js.map": "/React_art_blog/static/js/main.c4ef3a98.js.map",
     "787.9e0c1f39.chunk.js.map": "/React_art_blog/static/js/787.9e0c1f39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6da7f999.css",
-    "static/js/main.4504862f.js"
+    "static/js/main.c4ef3a98.js"
   ]
 }

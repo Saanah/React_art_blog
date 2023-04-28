@@ -7,9 +7,9 @@ function Post(props) {
         <div className={styles.post}>
             <div className={styles.postdate}>
                 <p>{props.art.date}</p>
-                <img src={"/pin.png"} className={styles.pin}></img>
+                <img src={"React_art_blog/pin.png"} className={styles.pin}></img>
             </div>
-            <img src={props.art.image} className={styles.image}></img>
+            <img src={props.art.image} alt={props.art.alt} className={styles.image}></img>
             <p>{props.art.text}</p>
         </div>
     );
